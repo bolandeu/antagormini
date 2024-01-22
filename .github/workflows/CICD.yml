@@ -22,4 +22,4 @@ jobs:
         port: ${{ secrets.SERVER_PORT }}
         rm: true
         source: "./*"
-        target: "prolisting.ru/public_html/wp-content/wp-themes/antagormini"
+        target: "prolisting.ru/public_html/wp-content/themes/antagormini"
